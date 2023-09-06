@@ -47,14 +47,10 @@ html{
 #card {
     background-color: #ff9e30;
     padding: 10px;
-   /* border-radius: 50%;*/
+   
     color: white;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
-
-/* #card img {
-    border-radius: 50%;
-} */
 
 
 /* meal details container */
@@ -84,8 +80,6 @@ html{
     margin: auto;
     text-align: center;
 }
-
-
 
 
 /* favourites offcanvus */
